@@ -31,7 +31,7 @@ int main() {
             // ...
             // ...
             ClearBackground(WHITE);
-            DrawText("Hallo, ich bin ein Game. Bitches.", 10, 10, 30, LIGHTGRAY);
+            DrawText("Hallo, ich bin ein Game, bitches. Ich bin ein GAME!", 10, 10, 30, LIGHTGRAY);
             DrawTexture(myTexture, 10, 100, WHITE);
 
         EndDrawing();
